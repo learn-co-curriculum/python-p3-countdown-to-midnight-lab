@@ -109,7 +109,7 @@ and makes the loop pause for one second each trip around ([hint][sleep]).
 
 ## Resources
 
-[Python While Loops - W3schools](https://www.w3schools.com/python/python_while_loops.asp)
-[Python sleep(): How to Add Time Delays to Your Code](https://realpython.com/python-sleep/)
+- [Python While Loops - W3schools](https://www.w3schools.com/python/python_while_loops.asp)
+- [Python sleep(): How to Add Time Delays to Your Code](https://realpython.com/python-sleep/)
 
 [sleep]: https://realpython.com/python-sleep/
